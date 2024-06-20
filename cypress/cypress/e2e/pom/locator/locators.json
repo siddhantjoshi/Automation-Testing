@@ -1,0 +1,12 @@
+{
+   "surveyPage": {
+      "name_input_field": "input[type='text']",
+      "under_age_radio_button": "div[role='radio'][data-value*='Under 18']",
+      "above_age_radio_button": "div[role='radio'][data-value*='18 or above']",
+      "exercise_drop_down": "div[role='listbox']",
+      "exercise_yes": "div[data-value='Yes'][role='option']",
+      "exercise_no": "div[data-value='No'][role='option']",
+      "survey_confirm": "div[class='vHW8K']",
+      "submit_button": "div[class='lRwqcd']>div[role='button']"
+   }
+}

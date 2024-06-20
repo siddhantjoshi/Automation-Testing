@@ -1,0 +1,10 @@
+{
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": false,
+    "step_definitions": "cypress/e2e/pom/stepDef"
+  },
+  "devDependencies": {
+    "cypress": "^13.10.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
